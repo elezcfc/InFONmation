@@ -8,7 +8,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.stefanelez.infonmation.OdabirActivity"
-    android:background="#adaaaa">
+    android:background="?attr/colorControlHighlight">
 
     <LinearLayout
         android:orientation="vertical"
@@ -18,15 +18,17 @@
         android:layout_alignParentEnd="true"
         android:weightSum="1"
         android:id="@+id/linearLayout"
-        android:layout_above="@+id/back_button">
+        android:layout_above="@+id/back_button"
+        android:background="@android:color/darker_gray">
 
         <CheckBox
-            android:layout_width="287dp"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Racunarske mreze i telekomunikacije"
             android:id="@+id/rmt_checkBox"
             android:layout_weight="0.19"
-            android:checked="false" />
+            android:checked="false"
+            android:singleLine="false" />
 
         <CheckBox
             android:layout_width="wrap_content"
@@ -70,7 +72,10 @@
         android:onClick="goBack"
         android:layout_alignRight="@+id/linearLayout"
         android:layout_alignEnd="@+id/linearLayout"
-        android:layout_alignParentBottom="true" />
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="@android:color/background_light"
+        android:textStyle="normal|bold" />
 
     <RadioGroup
         android:layout_width="match_parent"
@@ -85,25 +90,30 @@
             android:orientation="vertical"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:layout_gravity="center_horizontal">
+            android:layout_gravity="center_horizontal"
+            android:weightSum="1">
 
             <RadioButton
-                android:layout_width="212dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Rezultati"
                 android:id="@+id/radioButton"
                 android:checked="false"
                 android:background="#454fe2"
-                android:layout_marginBottom="5dp" />
+                android:layout_weight="0.72"
+                android:textStyle="normal|bold|italic"
+                android:textColorLink="?attr/actionModeSplitBackground" />
 
             <RadioButton
-                android:layout_width="212dp"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Sva obavestenja"
                 android:id="@+id/radioButton2"
                 android:checked="false"
                 android:background="#454fe2"
-                android:layout_marginTop="10dp" />
+                android:textStyle="normal|bold|italic"
+                android:layout_weight="0.66"
+                android:textColorLink="?attr/actionModeSplitBackground" />
         </LinearLayout>
     </RadioGroup>
 
