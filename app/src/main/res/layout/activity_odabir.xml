@@ -70,7 +70,9 @@
         android:onClick="goBack"
         android:layout_alignRight="@+id/linearLayout"
         android:layout_alignEnd="@+id/linearLayout"
-        android:layout_alignParentBottom="true" />
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/button_odabir"
+        android:clickable="true" />
 
     <RadioGroup
         android:layout_width="match_parent"
@@ -80,21 +82,14 @@
         android:layout_toLeftOf="@+id/back_button"
         android:layout_toStartOf="@+id/back_button"
         android:layout_alignTop="@+id/back_button">
-
-        <LinearLayout
-            android:orientation="vertical"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_gravity="center_horizontal">
-
             <RadioButton
                 android:layout_width="212dp"
                 android:layout_height="wrap_content"
                 android:text="Rezultati"
                 android:id="@+id/radioButton"
                 android:checked="false"
-                android:background="#454fe2"
-                android:layout_marginBottom="5dp" />
+                android:background="@drawable/button_odabir"
+                android:layout_marginBottom="5dp"/>
 
             <RadioButton
                 android:layout_width="212dp"
@@ -102,9 +97,9 @@
                 android:text="Sva obavestenja"
                 android:id="@+id/radioButton2"
                 android:checked="false"
-                android:background="#454fe2"
+                android:background="@drawable/button_odabir"
                 android:layout_marginTop="10dp" />
-        </LinearLayout>
+
     </RadioGroup>
 
 </RelativeLayout>
