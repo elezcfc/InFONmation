@@ -86,13 +86,6 @@
         android:layout_toStartOf="@+id/back_button"
         android:layout_alignTop="@+id/back_button">
 
-        <LinearLayout
-            android:orientation="vertical"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_gravity="center_horizontal"
-            android:weightSum="1">
-
             <RadioButton
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -114,7 +107,6 @@
                 android:textStyle="normal|bold|italic"
                 android:layout_weight="0.66"
                 android:textColorLink="?attr/actionModeSplitBackground" />
-        </LinearLayout>
     </RadioGroup>
 
 </RelativeLayout>
