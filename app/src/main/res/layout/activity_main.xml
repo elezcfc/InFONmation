@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:background="#454fe2"
+        android:weightSum="2">
+
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="59dp"
+            android:text="Refresh"
+            android:id="@+id/refresh_id"
+            android:layout_marginRight="0dp"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1"
+            android:background="#5dddb6"
+            android:layout_marginTop="15dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="59dp"
+            android:text="Odabir predmeta"
+            android:id="@+id/choose_id"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:layout_weight="1"
+            android:background="#5dddb6"
+            android:layout_marginTop="15dp" />
+
+    </LinearLayout>
+
+</RelativeLayout>
