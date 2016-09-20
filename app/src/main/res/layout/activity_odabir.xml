@@ -31,7 +31,7 @@
             android:layout_weight="0.19"
             android:checked="false"
             android:singleLine="false"
-            app:buttonTint="@android:color/background_dark" />
+            android:buttonTint="@android:color/background_dark" />
 
         <CheckBox
             android:layout_width="wrap_content"
@@ -40,7 +40,7 @@
             android:id="@+id/aros_checkBox"
             android:layout_weight="0.19"
             android:checked="false"
-            app:buttonTint="@android:color/background_dark" />
+            android:buttonTint="@android:color/background_dark" />
 
         <CheckBox
             android:layout_width="wrap_content"
@@ -49,7 +49,7 @@
             android:id="@+id/oikt_checkBox"
             android:layout_weight="0.19"
             android:checked="false"
-            app:buttonTint="@android:color/background_dark" />
+            android:buttonTint="@android:color/background_dark" />
 
         <CheckBox
             android:layout_width="wrap_content"
@@ -58,7 +58,7 @@
             android:id="@+id/bp_checkBox"
             android:layout_weight="0.19"
             android:checked="false"
-            app:buttonTint="@android:color/background_dark" />
+            android:buttonTint="@android:color/background_dark"/>
 
         <CheckBox
             android:layout_width="wrap_content"
@@ -67,7 +67,7 @@
             android:id="@+id/pj_checkBox"
             android:layout_weight="0.19"
             android:checked="false"
-            app:buttonTint="@android:color/background_dark" />
+            android:buttonTint="@android:color/background_dark" />
 
     </LinearLayout>
 
@@ -105,19 +105,20 @@
             android:textStyle="normal|bold|italic"
             android:textColorLink="?attr/actionModeSplitBackground"
             android:textColor="@android:color/background_light"
-            app:buttonTint="@android:color/background_dark" />
+            android:buttonTint="#051636"
+            android:singleLine="true" />
 
         <RadioButton
-                android:layout_width="241dp"
-                android:layout_height="match_parent"
-                android:text="Sva obavestenja"
-                android:id="@+id/radioButton2"
-                android:checked="false"
-                android:background="@color/colorPrimary"
-                android:textStyle="normal|bold|italic"
-                android:textColorLink="?attr/actionModeSplitBackground"
+            android:layout_width="241dp"
+            android:layout_height="match_parent"
+            android:text="Sva obavestenja"
+            android:id="@+id/radioButton2"
+            android:checked="false"
+            android:background="@color/colorPrimary"
+            android:textStyle="normal|bold|italic"
+            android:textColorLink="?attr/actionModeSplitBackground"
             android:textColor="@android:color/background_light"
-            app:buttonTint="@android:color/background_dark" />
+            android:buttonTint="#051636" />
     </RadioGroup>
 
 </RelativeLayout>
