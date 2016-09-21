@@ -13,13 +13,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        final Button chooseButton = (Button) findViewById(R.id.choose_id);
-        chooseButton.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                Intent settingIntent = new Intent(MainActivity.this, OdabirActivity.class);
-                MainActivity.this.startActivity(settingIntent);
-            }
-        });
+        Intent intent = getIntent();
+
 
 
     }
