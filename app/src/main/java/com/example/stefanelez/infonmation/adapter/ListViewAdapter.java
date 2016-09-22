@@ -129,7 +129,7 @@ public class ListViewAdapter extends BaseAdapter implements Filterable {
             protected FilterResults performFiltering(CharSequence constraint) {
 
                 FilterResults results = new FilterResults();
-                List<OnePieceOfNews> list = News.searchNews(constraint.toString());
+                List<OnePieceOfNews> list = Vesti.searchNews(constraint.toString());
 
                 results.values = list;
                 results.count = list.size();

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_margin="0dp">
+
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/onepieceofnews_side_margin"
+            android:layout_marginRight="@dimen/onepieceofnews_side_margin"
+            android:background="@drawable/news_onenews_bg"
+            android:id="@+id/llPieceOfNewsData">
+
+                <ImageView
+                    android:id="@+id/imNewsImage"
+                    android:layout_width="@dimen/onepieceofnews_normal_height"
+                    android:layout_height="@dimen/onepieceofnews_normal_height"
+                    android:src="@drawable/empty_photo"
+                    android:background="@color/colorAccent"
+                    android:paddingBottom="3dp"
+                    android:scaleType="centerCrop"
+                    android:layout_gravity="center_vertical" />
+
+                <TextView
+                    android:id="@+id/tvData"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:textStyle="bold"
+                    android:textColor="@color/text_color_white"
+
+                    android:gravity="center_vertical"
+                    android:textSize="?attr/font_small"
+                    android:paddingTop="5dp"
+                    android:paddingBottom="5dp"
+                    android:paddingRight="10dp"
+                    android:paddingLeft="10dp"
+                    android:layout_gravity="center_vertical"
+                    android:minHeight="@dimen/onepieceofnews_normal_height" />
+        </LinearLayout>
+
+
+</LinearLayout>

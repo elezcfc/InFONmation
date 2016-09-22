@@ -3,4 +3,18 @@
     <color name="colorPrimary">#4457bc</color>
     <color name="colorPrimaryDark">#051636</color>
     <color name="colorAccent">#ef6c09</color>
+
+    <color name="colorPrimaryLight">#151516</color>
+    <color name="main_button_bg_pressed">#535353</color>
+    <color name="blackTransparent">#7a000000</color>
+
+    <color name="colorAccentTransp">#b2faa61a</color>
+    <color name="bg_transparent">#00141515</color>
+    <color name="random">#ff00ff</color>
+    <color name="main_divider_bg">#4e3408</color>
+
+    <!-- Text color-->
+    <color name="text_hint_color">#80ffffff</color>
+    <color name="text_color_white">#ffffff</color>
+
 </resources>

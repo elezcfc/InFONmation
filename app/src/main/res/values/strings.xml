@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">InFONmation</string>
+    <string name="search_title">Pretraga</string>
+    <string name="search_hint">Pretraži vesti</string>
+    <string name="action_settings">Podešavanja</string>
+    <string name="loadmore_btn_txt">Ucitaj još vesti..</string>
 </resources>

@@ -31,6 +31,7 @@ import android.widget.Toast;
 import com.example.stefanelez.infonmation.adapter.ListViewAdapter;
 import com.example.stefanelez.infonmation.model.Vesti;
 import com.example.stefanelez.infonmation.util.Util;
+import com.example.stefanelez.infonmation.PreferencesActivity;
 
 
 /**

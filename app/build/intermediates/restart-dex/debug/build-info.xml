@@ -4,29 +4,29 @@
     density="xhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="492298765616238"
+    timestamp="552397995902163"
     token="-3406205452030080626"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="1616" />
+        duration="526" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="344" />
+        duration="496" />
     <task
         name="verifier"
-        duration="57" />
+        duration="123" />
 
     <artifact
         location="E:\Aplikacija za informacije o predmetima\Apps\InFONmation\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="492298765616238"
+        timestamp="552397995902163"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="E:\Aplikacija za informacije o predmetima\Apps\InFONmation\app\build\outputs\apk\app-debug.apk"

@@ -1,35 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/lib/android"
+    xmlns:app2="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
 
 
     android:orientation="vertical" android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/infonmationpocetna">
 
-
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:src="@drawable/infonmationpocetna"
-        android:id="@+id/imageView6"
-        android:scaleType="fitXY"
-        android:background="@drawable/infonmationpocetna" />
 
     <ImageButton
         android:layout_width="55dp"
         android:layout_height="40dp"
         android:id="@+id/refresh_id"
         android:scaleType="fitCenter"
-        android:visibility="visible"
         android:layout_marginBottom="22dp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
         android:layout_alignParentEnd="true"
         android:layout_marginRight="11dp"
         android:layout_marginEnd="11dp"
-        android:src="@drawable/refresh"
-        android:background="@android:color/holo_orange_dark" />
+        android:background="@android:color/transparent"
+        android:clickable="false"
+        android:src="@drawable/refresh123" />
 
     <Button
         android:text="OBAVEŠTENJA"
