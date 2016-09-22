@@ -1,342 +1,342 @@
 [
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_b_bg.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\main_b_bg.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_b_uploadpic.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_b_uploadpic.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_bstyle_long.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_bstyle_long.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\youtube_pressed.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\youtube_pressed.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_b_social_li.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\main_b_social_li.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linkedin.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\linkedin.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\projekti.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\projekti.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_smallpic_bg.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\news_smallpic_bg.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_inputform_bg.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_inputform_bg.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_b_social_fb.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\main_b_social_fb.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter_pressed.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\twitter_pressed.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook_pressed.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\facebook_pressed.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_bstyle_uploadpic_pressed.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_bstyle_uploadpic_pressed.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_b_bg.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\main_b_bg.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fonis.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\fonis.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_bstyle_camera_pressed.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_bstyle_camera_pressed.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\infonmationpocetna.jpg",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\infonmationpocetna.jpg"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_b_social_twitter.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\main_b_social_twitter.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_b_long.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_b_long.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_bstyle_pressed.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\main_bstyle_pressed.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\empty_photo.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\empty_photo.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_bstyle_default.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\main_bstyle_default.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vesti.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\vesti.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_smallpic_bg.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\news_smallpic_bg.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_bstyle_camera.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_bstyle_camera.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_onenews_bg.9.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\news_onenews_bg.9.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_bstyle_uploadpic.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_bstyle_uploadpic.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_odabir.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\button_odabir.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_b_social_twitter.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\main_b_social_twitter.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\twitter.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_bstyle_camera.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_bstyle_camera.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\citac_vesti.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\citac_vesti.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\facebook.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_bstyle_gallery_pressed.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_bstyle_gallery_pressed.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\border.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_bstyle_uploadpic_pressed.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_bstyle_uploadpic_pressed.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_bstyle_long_pressed.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_bstyle_long_pressed.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\onama.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\onama.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_b_social_fb.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\main_b_social_fb.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\youtube.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\youtube.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\onama.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\onama.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_b_long.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_b_long.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_bstyle_pressed.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\main_bstyle_pressed.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_email.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\ic_email.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\citac_vesti.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\citac_vesti.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_bstyle_default.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\main_bstyle_default.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash1.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\splash1.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_agenda.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\ic_agenda.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\twitter.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_people.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\ic_people.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\news_onenews_bg.9.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\news_onenews_bg.9.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_b_social_yt.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\main_b_social_yt.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_b_social_instagram.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\main_b_social_instagram.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\splash1.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\splash1.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_b_gallery.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_b_gallery.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_inputform_bg.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_inputform_bg.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_odabir.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\button_odabir.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\twitter_pressed.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\twitter_pressed.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_long_text_color.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_long_text_color.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linkedin_pressed.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\linkedin_pressed.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_b_camera.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_b_camera.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_main.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\button_main.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_bstyle_gallery.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_bstyle_gallery.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_people.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\ic_people.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linkedin_pressed.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\linkedin_pressed.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\instagram.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\instagram.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\youtube_pressed.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\youtube_pressed.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linkedin.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\linkedin.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\border.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\infonmationpocetna.jpg",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\infonmationpocetna.jpg"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_b_uploadpic.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_b_uploadpic.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fonis.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\fonis.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vesti.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\vesti.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\instagram_pressed.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\instagram_pressed.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\projects_background.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\projects_background.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_long_text_color.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_long_text_color.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_b_social_yt.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\main_b_social_yt.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\empty_photo.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\empty_photo.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\instagram_pressed.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\instagram_pressed.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_bstyle_long_pressed.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_bstyle_long_pressed.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_bstyle_gallery.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_bstyle_gallery.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_b_camera.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_b_camera.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh123.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\refresh123.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\instagram.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\instagram.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\projects_background.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\projects_background.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook_pressed.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\facebook_pressed.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\youtube.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\youtube.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_b_gallery.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_b_gallery.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_bstyle_gallery_pressed.png",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_bstyle_gallery_pressed.png"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_b_social_li.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\main_b_social_li.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\facebook.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\facebook.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\refresh123.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\refresh123.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_bstyle_uploadpic.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_bstyle_uploadpic.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_bstyle_long.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_bstyle_long.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\msdnaa_bstyle_camera_pressed.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\msdnaa_bstyle_camera_pressed.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_main.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\button_main.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_agenda.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\ic_agenda.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_email.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\ic_email.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_b_social_instagram.xml",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\main_b_social_instagram.xml"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\projekti.png",
-        "source": "E:\\Aplikacija za informacije o predmetima\\Apps\\InFONmation\\app\\src\\main\\res\\drawable\\projekti.png"
+        "merged": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Stefan Elez\\Desktop\\InFONmation\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
     }
 ]

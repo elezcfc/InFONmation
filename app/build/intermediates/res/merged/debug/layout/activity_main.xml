@@ -5,13 +5,11 @@
     android:layout_height="match_parent"
     android:background="@drawable/infonmationpocetna">
 
-
-
-        <ExpandableListView
-            android:id="@+id/lvExp"
-            android:layout_height="match_parent"
-            android:layout_width="match_parent"
-            android:layout_marginTop="75dp" />
+                <ListView
+                    android:id="@+id/Exp"
+                    android:layout_height="match_parent"
+                    android:layout_width="match_parent"
+                    android:layout_marginTop="95dp" />
 
 
 </RelativeLayout>

@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    api-level="18"
-    density="xhdpi"
+    api-level="24"
+    density="xxhdpi"
     format="8"
     plugin-version="2.2.0"
-    timestamp="552397995902163"
-    token="-3406205452030080626"
+    timestamp="566502779702707"
+    token="5837038740262941285"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="526" />
+        duration="6693" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="496" />
+        duration="1551" />
     <task
         name="verifier"
-        duration="123" />
+        duration="127" />
 
     <artifact
-        location="E:\Aplikacija za informacije o predmetima\Apps\InFONmation\app\build\outputs\apk\app-debug.apk"
+        location="C:\Users\Stefan Elez\Desktop\InFONmation\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="552397995902163"
+        timestamp="566502779702707"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="E:\Aplikacija za informacije o predmetima\Apps\InFONmation\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\Stefan Elez\Desktop\InFONmation\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

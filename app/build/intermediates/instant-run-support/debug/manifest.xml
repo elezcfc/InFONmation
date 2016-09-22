@@ -8,6 +8,8 @@
         android:minSdkVersion="10"
         android:targetSdkVersion="24" />
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <application
         android:name="com.android.tools.fd.runtime.BootstrapApplication"
         android:allowBackup="true"
@@ -24,6 +26,8 @@
             </intent-filter>
         </activity>
         <activity android:name="com.example.stefanelez.infonmation.OdabirActivity" />
+        <activity android:name="com.example.stefanelez.infonmation.MainActivity" />
+        <activity android:name="com.example.stefanelez.infonmation.VestiActivity" />
     </application>
 
 </manifest>

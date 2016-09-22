@@ -27,7 +27,7 @@ public class PocetnaActivity extends AppCompatActivity {
         final Button chooseButton2 = (Button) findViewById(R.id.obavestenja_id);
         chooseButton2.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                Intent settingIntent = new Intent(PocetnaActivity.this, VestiActivity.class);
+                Intent settingIntent = new Intent(PocetnaActivity.this, MainActivity.class);
                 PocetnaActivity.this.startActivity(settingIntent);
             }
         });

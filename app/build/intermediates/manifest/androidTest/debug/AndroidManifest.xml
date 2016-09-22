@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.stefanelez.infonmation.test">
+    package="com.example.stefanelez.infonmation.test" >
 
-    <uses-sdk android:minSdkVersion="10" android:targetSdkVersion="24" />
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="24" />
+
+    <instrumentation
+        android:name="com.android.test.runner.MultiDexTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.example.stefanelez.infonmation"
+        android:targetPackage="com.example.stefanelez.infonmation" />
 
     <application>
         <uses-library android:name="android.test.runner" />
     </application>
 
-    <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.example.stefanelez.infonmation"
-                     android:handleProfiling="false"
-                     android:functionalTest="false"
-                     android:label="Tests for com.example.stefanelez.infonmation"/>
 </manifest>
