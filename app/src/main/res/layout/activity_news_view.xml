@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/colorPrimary"
+            android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/imNewsImage"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/empty_photo" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="@dimen/onepieceofnews_side_margin"
+                android:layout_marginRight="@dimen/onepieceofnews_side_margin"
+                android:layout_marginTop="30dp"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/imageView16"
+                    android:layout_width="@dimen/onepieceofnews_title_height"
+                    android:layout_height="@dimen/onepieceofnews_title_height"
+                    android:src="@drawable/citac_vesti" />
+                <TextView
+                    android:id="@+id/tvNewsTitle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/imageView16"
+
+                    android:gravity="center_horizontal"
+                    android:minHeight="@dimen/onepieceofnews_title_height"
+                    android:textColor="@color/text_color_white"
+                    android:textSize="?attr/font_large" />
+
+                <TextView
+                    android:id="@+id/tvNewsDate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tvNewsTitle"
+                    android:layout_gravity="left"
+                    android:text="1.1.2001"
+                    android:textColor="@color/colorAccent"
+                    android:textSize="?attr/font_small"
+                    android:layout_alignParentEnd="false"
+                    android:layout_alignParentRight="true" />
+                <TextView
+                    android:id="@+id/tvNewsText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/tvNewsDate"
+                    android:layout_marginBottom="5dp"
+                    android:text="@string/lorem_ipsum"
+                    android:textColor="@color/text_color_white"
+                    android:textSize="?attr/font_medium"
+                    android:layout_marginTop="10dp" />
+
+
+
+
+
+            </RelativeLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
