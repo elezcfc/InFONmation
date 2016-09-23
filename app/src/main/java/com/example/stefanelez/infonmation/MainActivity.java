@@ -42,28 +42,72 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+    public ArrayList<Item> chooseList (){
+        DownloadAndParse d = new DownloadAndParse();
+        OdabirActivity o = new OdabirActivity();
+        String url = "http://is.fon.bg.ac.rs/feed/";
+        ArrayList<Item> svaObavestenjaSviPredmeti =new ArrayList<Item>(); //sadrzi sva obavestenja
+        svaObavestenjaSviPredmeti = d.readRSS(url);
+        Opcije opcije = ((Upit)getApplication()).getOpcije();
+        //if(o.obavestenja.isChecked()){
+        try {
+            if (opcije.isBazeCheck(this)) {
+                ArrayList<Item> obavestenjaBaze = new ArrayList<Item>();
+                for (int i = 0; i < svaObavestenjaSviPredmeti.size(); i++) {
+                    if (svaObavestenjaSviPredmeti.get(i).getTitle().contains("Базе") || svaObavestenjaSviPredmeti.get(i).getTitle().contains("База")) {
+                        obavestenjaBaze.add(svaObavestenjaSviPredmeti.get(i));
+                    }
+                }
+                return obavestenjaBaze;
+            }
+        }catch (NullPointerException e){
+            System.out.println("Ne radi prvi upit");
+        }
+        try {
+            if (opcije.isProgramskiCheck(this)) {
+                ArrayList<Item> obavestenjaProgramski = new ArrayList<Item>();
+                for (int i = 0; i < svaObavestenjaSviPredmeti.size(); i++) {
+                    if (svaObavestenjaSviPredmeti.get(i).getTitle().contains("Програмски")) {
+                        obavestenjaProgramski.add(svaObavestenjaSviPredmeti.get(i));
+                    }
+                }
+                return obavestenjaProgramski;
+            }
+        }catch (NullPointerException e){
+            System.out.println("Ne radi prvi upit");
+        }
+        //}
+        //if(o.rezultati.isChecked()){
+            if(opcije.isBazeCheck(this)){
+                ArrayList<Item> rezultatiBaze = new ArrayList<Item>();
+                for(int i=0; i<svaObavestenjaSviPredmeti.size(); i++){
+                    if((svaObavestenjaSviPredmeti.get(i).getTitle().contains("Базе") || svaObavestenjaSviPredmeti.get(i).getTitle().contains("База")) &&
+                            svaObavestenjaSviPredmeti.get(i).getTitle().contains("Резултати") || svaObavestenjaSviPredmeti.get(i).getTitle().contains("Rezultati")){
+                        rezultatiBaze.add(svaObavestenjaSviPredmeti.get(i));
+                    }
+                }
+                return rezultatiBaze;
+            }
+            if(opcije.isProgramskiCheck(this)){
+                ArrayList<Item> rezultatiProgramski = new ArrayList<Item>();
+                for(int i=0; i<svaObavestenjaSviPredmeti.size(); i++){
+                    if((svaObavestenjaSviPredmeti.get(i).getTitle().contains("Програмски")) &&
+                            svaObavestenjaSviPredmeti.get(i).getTitle().contains("Резултати")){
+                        rezultatiProgramski.add(svaObavestenjaSviPredmeti.get(i));
+                    }
+                }
+                return rezultatiProgramski;
+            }
+        //}//*/
+        return svaObavestenjaSviPredmeti;
+    }
 
     private void init(){
-        DownloadAndParse d = new DownloadAndParse();
-        String url = "http://is.fon.bg.ac.rs/feed/";
+
 
         mListView = (ListView) findViewById(R.id.Exp);
-        ArrayList<Item> list123=new ArrayList<Item>();
-        list123 = d.readRSS(url);//list123 sadrzi sva obavestenja
-        ArrayList<Item> listSamoRezultati=new ArrayList<Item>();
-        for(int i=0; i<list123.size(); i++){
-            if(list123.get(i).getTitle().contains("Резултати") || list123.get(i).getTitle().contains("Rezultati") ){
-                listSamoRezultati.add(list123.get(i));
-            }
-        }
-        /*Item a=new Item();
-        a.setTitle("fsfsfs");
-        a.setDescription("dsadadadadad");
-        list123.add(a);*/
-        mAdapter = new ListViewAdapter(this, list123);
+        mAdapter = new ListViewAdapter(this, chooseList());
         mListView.setAdapter(mAdapter);
 
     }
-
-
 }

@@ -1916,8 +1916,6 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0b0042;
         public static final int action_mode_bar_stub=0x7f0b0041;
         public static final int action_mode_close_button=0x7f0b0026;
-        public static final int action_search=0x7f0b0070;
-        public static final int action_settings=0x7f0b006f;
         public static final int activity_chooser_view_content=0x7f0b0027;
         public static final int add=0x7f0b0013;
         public static final int alertTitle=0x7f0b0033;
@@ -1962,6 +1960,7 @@ containing a value of this type.
         public static final int never=0x7f0b0020;
         public static final int none=0x7f0b000e;
         public static final int normal=0x7f0b000a;
+        public static final int obavestenja_button=0x7f0b005d;
         public static final int obavestenja_id=0x7f0b005e;
         public static final int oikt_checkBox=0x7f0b0058;
         public static final int parentPanel=0x7f0b0030;
@@ -1969,8 +1968,7 @@ containing a value of this type.
         public static final int progress_circular=0x7f0b0005;
         public static final int progress_horizontal=0x7f0b0006;
         public static final int radio=0x7f0b003e;
-        public static final int radioButton=0x7f0b005c;
-        public static final int radioButton2=0x7f0b005d;
+        public static final int rezultati_button=0x7f0b005c;
         public static final int rmt_checkBox=0x7f0b0056;
         public static final int screen=0x7f0b0015;
         public static final int scrollIndicatorDown=0x7f0b0038;
@@ -2063,9 +2061,6 @@ containing a value of this type.
         public static final int select_dialog_multichoice_material=0x7f040027;
         public static final int select_dialog_singlechoice_material=0x7f040028;
         public static final int support_simple_spinner_dropdown_item=0x7f040029;
-    }
-    public static final class menu {
-        public static final int menu_news=0x7f0d0000;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
